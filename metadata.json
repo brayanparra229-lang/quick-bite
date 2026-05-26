@@ -1,0 +1,6 @@
+{
+  "name": "Quick-Bite University",
+  "description": "Eficiencia metabólica para el éxito académico. Plataforma modular para compra y recolección rápida de alimentos en el campus universitario.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
